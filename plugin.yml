@@ -1,0 +1,5 @@
+name: Peppa
+main: peppa.pig
+version: 1.0
+commands:
+   oinc:
